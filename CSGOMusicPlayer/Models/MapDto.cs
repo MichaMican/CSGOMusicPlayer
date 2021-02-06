@@ -1,0 +1,12 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace CSGOMusicPlayer.Models
+{
+    public class RoundDto
+    {
+        public string phase { get; set; }
+    }
+}
