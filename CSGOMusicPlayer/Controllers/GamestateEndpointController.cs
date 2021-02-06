@@ -25,7 +25,6 @@ namespace CSGOMusicPlayer.Controllers
         {
             if (csgoGameState == null || csgoGameState.player == null || csgoGameState.map == null)
             {
-                Console.WriteLine("Not ingame");
                 return Ok();
             }
 

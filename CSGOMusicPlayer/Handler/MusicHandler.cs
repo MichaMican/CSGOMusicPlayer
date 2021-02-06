@@ -24,7 +24,6 @@ namespace CSGOMusicPlayer.Handler
         {
             if (lastPlayerId != gameState.player.steamid || lastRoundPhase != gameState.round.phase)
             {
-                Console.WriteLine("Status change detected");
                 lastRoundPhase = gameState.round.phase;
                 lastPlayerId = gameState.player.steamid;
                 switch (gameState.round.phase)
