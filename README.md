@@ -10,7 +10,7 @@ Note that this **is NOT a cheat** and it **will NOT get detected as such**. I'm 
 - After that execute the Program (CSGOMusicPlayer.exe) and (re)start CSGO
 
 ## Where to get it?
-You can download the latest precompiled binaries aswell as the gamestate integration config file for CSGO and the sourcecode from here the release section: https://github.com/MichaMican/CSGOMusicPlayer/releases/latest
+You can download the latest precompiled binaries aswell as the gamestate integration config file for CSGO and the sourcecode from here the release section: https://github.com/MichaMican/CSGOMusicPlayer/releases/latest  
 Obviously running "some weird .exe" that you downloaded from the web sounds a bit fishy. If you don't trust me: The sourcecode is available in this repo. Feel free to open it in Visual Studio (or another C# compiling ISE), inspect it and compile it yourself.
 
 
