@@ -23,7 +23,7 @@ namespace CSGOMusicPlayer.Controllers
         [HttpPost]
         public async Task<ActionResult> HandlePost([FromBody] CsgoGameStateDto csgoGameState)
         {
-            if (csgoGameState == null || csgoGameState.player == null || csgoGameState.map == null)
+            if (csgoGameState == null || csgoGameState.player == null || csgoGameState.map == null || csgoGameState.round == null)
             {
                 return Ok();
             }
