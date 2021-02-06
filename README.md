@@ -10,7 +10,7 @@ The CSGOMusicPlayer Stops your Music (e.g. Spotify, Youtube etc.) when you are i
 - 3rd party music provider (e.g. WebBrowser/Spotify/etc.)
 
 ## How to set up?
-- Find the directory in which you installed CSGO then go to the /csgo/cfg folder and copy and paste the [gamestate_integration_musicControl.cfg](https://github.com/MichaMican/CSGODrinkingGame/blob/master/gamestate_integration_musicControl.cfg) into it.  
+- Find the directory in which you installed CSGO then go to the /csgo/cfg folder and copy and paste the [gamestate_integration_musicControl.cfg](https://github.com/MichaMican/CSGOMusicPlayer/blob/main/gamestate_integration_musicControl.cfg) into it.  
 Note that this **is NOT a cheat** and it **will NOT get detected as such**. I'm using an [official interface (gamestate integration)] provided by the CSGO Developers
 - Start a song (and pause it imediately if you want) in your 3rd party music provider (e.g. WebBrowser/Spotify/etc.)
 - After that execute the Program (CSGOMusicPlayer.exe) and (re)start CSGO
