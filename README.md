@@ -1,3 +1,7 @@
+> NOTE: Unfortunately the dlls that controll the music pause/play were removed from Windows 10/11 through some update in the past.  
+> If you happen to have an old unpatched windows (which you realy should not have - go update your system) this might still work.
+> If you find a way (besids emulating a Keyboard) of controlling the pause/play directly - feel free to reach out to me or open a issue/PR
+
 # CSGOMusicPlayer
 The CSGOMusicPlayer is a Programm, which uses CSGOs GameStateIntegration and Microsoft Windows Media Control to pause your music when you need focus and play it when you have some spare time.
 
